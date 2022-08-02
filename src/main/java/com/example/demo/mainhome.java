@@ -9,6 +9,6 @@ public class mainhome {
 	@GetMapping("/home")
 	public String home() {
 		System.out.println("hellooooooos");
-		return "<center><h2>aur bataaaaaa<h2><center>";
+		return "<center><h2>this is the 1st commit<h2><center>";
 	}
 }
